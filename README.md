@@ -1,5 +1,5 @@
 # Networks-Scapy-TCP-Client
-In this assignment, you will simulate a TCP client using scapy instead of the socket library. Scapy is a python library that can be used for creating network packets.
+
 
 Question 1: Simulating a TCP client
 You will create a TCP client using scapy that performs the following steps:
